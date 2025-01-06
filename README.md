@@ -26,7 +26,7 @@ This project analyzes and visualizes Air Quality Index (AQI) data to understand 
 1. Clone the repository:
    ```bash
    git clone https://github.com/shehab125/Air-Quality-Analysis-and-Visualization.git
-   cd Air-Quality-Analysis
+   cd Air-Quality-Analysis-and-Visualization
    ```
 
 ---
