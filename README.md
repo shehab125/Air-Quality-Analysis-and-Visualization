@@ -25,12 +25,8 @@ This project analyzes and visualizes Air Quality Index (AQI) data to understand 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shehab125/Air-Quality-Analysis.git
+   git clone https://github.com/shehab125/Air-Quality-Analysis-and-Visualization.git
    cd Air-Quality-Analysis
-   ```
-2. Install the required Python packages:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ---
